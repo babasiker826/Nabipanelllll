@@ -973,12 +973,12 @@ def admin_panel():
         <head><title>Admin Giriş</title></head>
         <body style="background:#0f172a;color:white;padding:50px;text-align:center;">
             <h1>🔐 Admin Panel</h1>
-            <p>admin / admin123</p>
+            <p>NEYI GORMEYE BEKLIYOSUN OROSPU COCUGU</p>
             <br>
             <div style="max-width:400px;margin:auto;background:#1e293b;padding:30px;border-radius:15px;">
                 <p><strong>API ile Key Oluştur:</strong></p>
                 <code style="background:#0f172a;padding:10px;border-radius:5px;display:block;margin:10px 0;">
-                    /adminapi/createkey?plan=1ay&owner=test&auth=admin123
+                    /KEYACNABISIKDIBENI
                 </code>
             </div>
         </body>
